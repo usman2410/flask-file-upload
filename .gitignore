@@ -1,0 +1,12 @@
+# Python-related files
+__pycache__/
+*.pyc
+
+# Flask uploads folder
+uploads/
+
+# Environment files
+.env
+
+# VS Code settings (optional)
+.vscode/
